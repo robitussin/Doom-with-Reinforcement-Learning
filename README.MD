@@ -7,4 +7,4 @@
 ## When running in VS Code/PyCharm
 1. Put all game files, assets and the python notebook in one folder
 2. Remove "game.set_window_visible(False)" in the create_environment() method.
-3. Omit the lib boost installation for Google Collab
+3. Omit all install commands specific for Google Collab
